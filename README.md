@@ -1,1 +1,2 @@
-# Prodigy_Task3
+# Prodigy_Task3 
+This is a simple web application game .In this game stack functions are used like HTML,CSS and JAVASCRIPT.By implementing those functions it makes the user easy to handle user clicks,track game state,and check for winning conditions with this technologies and functionalites users can play against each other or against an AI opponent,which aims to get three markers in a row to win the game.
